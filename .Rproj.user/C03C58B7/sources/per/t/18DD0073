@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588970564007.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3910921981",
+    "id" : "18DD0073",
+    "lastKnownWriteTime" : 1589044548,
+    "last_content_update" : 1589044548980,
+    "path" : "C:/Users/ClaitonJoziel/Desktop/ProjetosR/Curso R/Week 2/Week2/corr.R",
+    "project_path" : "corr.R",
+    "properties" : {
+        "cursorPosition" : "14,37",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
